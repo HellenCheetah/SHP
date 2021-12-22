@@ -1,0 +1,406 @@
+{
+  "success": false,
+  "data": {
+    "pek": {
+      "address": {
+        "price": 1260,
+        "period": "4-6 дней",
+        "label": "ПЭК (Авто, до двери)",
+        "service_name": "ПЭК",
+        "service_code": "pek",
+        "inn": "7721823853",
+        "tariff": "Авто, до двери",
+        "daysMin": 4,
+        "daysMax": 6,
+        "period_formatted": "4-6 дней",
+        "price_formatted": "1260 руб",
+        "pvz": null
+      },
+      "pvz": {
+        "price": 920,
+        "period": "4-6 дней",
+        "label": "ПЭК (Авто, до пункта)",
+        "service_name": "ПЭК",
+        "service_code": "pek",
+        "inn": "7721823853",
+        "tariff": "Авто, до пункта",
+        "daysMin": 4,
+        "daysMax": 6,
+        "period_formatted": "4-6 дней",
+        "price_formatted": "920 руб",
+        "pvz": [
+          {
+            "name": "Волгоград 01",
+            "lat": "48.74865",
+            "lon": "44.470119",
+            "address": "г.Волгоград, Землячки 16",
+            "phone": "8(8442) 78-00-48, 8(8442) 26-22-45",
+            "worktime": "Время работы уточняйте по телефону.",
+            "more": ""
+          },
+          {
+            "name": "Волгоград Север",
+            "lat": "48.821997",
+            "lon": "44.615116",
+            "address": "г.Волгоград, Калужская 27",
+            "phone": "8(8442) 78-00-48, 8(8442) 26-22-45",
+            "worktime": "Время работы уточняйте по телефону.",
+            "more": ""
+          },
+          {
+            "name": "Волгоград 64-ой Армии 40",
+            "lat": "48.619116",
+            "lon": "44.425104",
+            "address": "Россия, Волгоградская область, город Волгоград, Кировский район, улица 64-й Армии, дом 40",
+            "phone": "8(8442) 78-00-48, 8(8442) 26-22-45",
+            "worktime": "Время работы уточняйте по телефону.",
+            "more": ""
+          },
+          {
+            "name": "Волгоград  8-й Воздушной армии 66А",
+            "lat": "48.76186",
+            "lon": "44.498623",
+            "address": "г.Волгоград,  8-й Воздушной армии 66А",
+            "phone": "8(8442) 78-00-48, 8(8442) 26-22-45",
+            "worktime": "Время работы уточняйте по телефону.",
+            "more": ""
+          },
+          {
+            "name": "Волгоград Ткачева 30",
+            "lat": "48.724647",
+            "lon": "44.513978",
+            "address": "Волгоград, улица им Ткачева, 30",
+            "phone": "8(8442) 78-00-48, 8(8442) 26-22-45",
+            "worktime": "Время работы уточняйте по телефону.",
+            "more": ""
+          },
+          {
+            "name": "Волгоград Николая Отрады 20 Б",
+            "lat": "48.816442",
+            "lon": "44.629065",
+            "address": "г.Волгоград, Николая Отрады 20 Б",
+            "phone": "8(8442) 78-00-48, 8(8442) 26-22-45",
+            "worktime": "Время работы уточняйте по телефону.",
+            "more": ""
+          },
+          {
+            "name": "Волгоград Ополченская 59",
+            "lat": "48.791511",
+            "lon": "44.583208",
+            "address": "Россия, Волгоград, Ополченская улица, 59",
+            "phone": "8(8442) 78-00-48, 8(8442) 26-22-45",
+            "worktime": "Время работы уточняйте по телефону.",
+            "more": ""
+          }
+        ]
+      }
+    },
+    "gtd": {
+      "address": {
+        "price": 2273,
+        "period": "4 дня",
+        "label": "GTD (Стандарт, до двери)",
+        "service_name": "GTD",
+        "service_code": "gtd",
+        "inn": "",
+        "tariff": "Стандарт, до двери",
+        "daysMin": 4,
+        "daysMax": 4,
+        "period_formatted": "4 дня",
+        "price_formatted": "2273 руб",
+        "pvz": null
+      },
+      "pvz": {
+        "price": 1823,
+        "period": "4 дня",
+        "label": "GTD (Стандарт, до пункта)",
+        "service_name": "GTD",
+        "service_code": "gtd",
+        "inn": "",
+        "tariff": "Стандарт, до пункта",
+        "daysMin": 4,
+        "daysMax": 4,
+        "period_formatted": "4 дня",
+        "price_formatted": "1823 руб",
+        "pvz": [
+          {
+            "name": "ул. Авторемонтная, 11 В",
+            "address": "ул. Авторемонтная, 11 В",
+            "lat": "48.755398",
+            "lon": "44.440546"
+          }
+        ]
+      }
+    },
+    "dpd": {
+      "address": {
+        "price": 898,
+        "period": "5 дней",
+        "label": "DPD MAX domestic (DPD MAX domestic)",
+        "service_name": "DPD MAX domestic",
+        "service_code": "dpd",
+        "inn": "",
+        "tariff": "DPD MAX domestic",
+        "daysMin": 5,
+        "daysMax": 5,
+        "period_formatted": "5 дней",
+        "price_formatted": "898 руб",
+        "pvz": null
+      },
+      "pvz": {
+        "price": 576,
+        "period": "5 дней",
+        "label": "DPD MAX domestic (DPD MAX domestic)",
+        "service_name": "DPD MAX domestic",
+        "service_code": "dpd",
+        "inn": "",
+        "tariff": "DPD MAX domestic",
+        "daysMin": 5,
+        "daysMax": 5,
+        "period_formatted": "5 дней",
+        "price_formatted": "576 руб",
+        "pvz": [
+          {
+            "address": "ул Козловская, дом 54",
+            "lat": "48.68707",
+            "lon": "44.476645",
+            "name": "ул Козловская, дом 54",
+            "services": [
+              "NDY",
+              "BZP",
+              "CUR",
+              "DIR",
+              "DPE",
+              "DPI",
+              "ECN",
+              "ECU",
+              "IND",
+              "MAX",
+              "PCL",
+              "CSM",
+              "PKT",
+              "PKE",
+              "PUP",
+              "MXO"
+            ]
+          },
+          {
+            "address": "ул им маршала Чуйкова, дом 71",
+            "lat": "48.738301",
+            "lon": "44.553276",
+            "name": "ул им маршала Чуйкова, дом 71",
+            "services": [
+              "BZP",
+              "CUR",
+              "DIR",
+              "DPE",
+              "DPI",
+              "ECN",
+              "MAX",
+              "PCL",
+              "CSM",
+              "PKT",
+              "PUP",
+              "MXO"
+            ]
+          },
+          {
+            "address": "ул им Ткачева, дом 30",
+            "lat": "48.724955",
+            "lon": "44.512642",
+            "name": "ул им Ткачева, дом 30",
+            "services": [
+              "BZP",
+              "CUR",
+              "DIR",
+              "DPE",
+              "DPI",
+              "ECN",
+              "MAX",
+              "PCL",
+              "CSM",
+              "PKT",
+              "PUP",
+              "MXO"
+            ]
+          },
+          {
+            "address": "ул им Николая Отрады, дом 20Б",
+            "lat": "48.817187",
+            "lon": "44.629364",
+            "name": "ул им Николая Отрады, дом 20Б",
+            "services": [
+              "BZP",
+              "CUR",
+              "DIR",
+              "DPE",
+              "DPI",
+              "ECN",
+              "MAX",
+              "PCL",
+              "CSM",
+              "PKT",
+              "PUP",
+              "MXO"
+            ]
+          },
+          {
+            "address": "ул Краснознаменская, дом 7",
+            "lat": "48.703912",
+            "lon": "44.510042",
+            "name": "ул Краснознаменская, дом 7",
+            "services": [
+              "BZP",
+              "CUR",
+              "DIR",
+              "DPE",
+              "DPI",
+              "ECN",
+              "MAX",
+              "PCL",
+              "CSM",
+              "PKT",
+              "PUP",
+              "MXO"
+            ]
+          },
+          {
+            "address": "ул 4-х связистов, дом 21Д",
+            "lat": "48.761082",
+            "lon": "44.530109",
+            "name": "ул 4-х связистов, дом 21Д",
+            "services": [
+              "BZP",
+              "CUR",
+              "DIR",
+              "DPE",
+              "DPI",
+              "ECN",
+              "MAX",
+              "PCL",
+              "CSM",
+              "PKT",
+              "PUP",
+              "MXO"
+            ]
+          },
+          {
+            "address": "ул им генерала Штеменко, дом 43",
+            "lat": "48.775717",
+            "lon": "44.554215",
+            "name": "ул им генерала Штеменко, дом 43",
+            "services": [
+              "BZP",
+              "CUR",
+              "DIR",
+              "DPE",
+              "DPI",
+              "ECN",
+              "MAX",
+              "PCL",
+              "CSM",
+              "PKT",
+              "PUP",
+              "MXO"
+            ]
+          },
+          {
+            "address": "ул им Рокоссовского, дом 17",
+            "lat": "48.727247",
+            "lon": "44.519191",
+            "name": "ул им Рокоссовского, дом 17",
+            "services": [
+              "BZP",
+              "CUR",
+              "DIR",
+              "DPE",
+              "DPI",
+              "ECN",
+              "MAX",
+              "PCL",
+              "CSM",
+              "PKT",
+              "PUP",
+              "MXO"
+            ]
+          },
+          {
+            "address": "ул им Пельше, дом 30А",
+            "lat": "48.786715",
+            "lon": "44.571327",
+            "name": "ул им Пельше, дом 30А",
+            "services": [
+              "BZP",
+              "CUR",
+              "DIR",
+              "DPE",
+              "DPI",
+              "ECN",
+              "MAX",
+              "PCL",
+              "CSM",
+              "PKT",
+              "PUP",
+              "MXO"
+            ]
+          },
+          {
+            "address": "ул Тарифная, дом 21",
+            "lat": "48.790611",
+            "lon": "44.578564",
+            "name": "ул Тарифная, дом 21",
+            "services": [
+              "BZP",
+              "CUR",
+              "DIR",
+              "DPE",
+              "DPI",
+              "ECN",
+              "MAX",
+              "PCL",
+              "CSM",
+              "PKT",
+              "PUP",
+              "MXO"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "order": {
+    "price": 10140,
+    "discount": 140,
+    "totalPrice": 10000
+  },
+  "paymentMethods": {
+    "card": [
+      "silkroad",
+      "grastin",
+      "dpd",
+      "gtd",
+      "pek",
+      "sdek"
+    ],
+    "bill": [
+      "silkroad",
+      "grastin",
+      "dpd",
+      "gtd",
+      "pek",
+      "sdek"
+    ],
+    "cash": [
+      "silkroad",
+      "grastin"
+    ],
+    "installment": [
+      "silkroad",
+      "grastin",
+      "dpd",
+      "gtd",
+      "pek",
+      "sdek"
+    ]
+  }
+}
