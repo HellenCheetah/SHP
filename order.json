@@ -1,0 +1,81 @@
+{
+    "success": true,
+    "cityName": "Москва",
+    "data": {
+        "silkroad": {
+            "pvz": {
+                    "price": 0,
+                    "period": "1-2 дня",
+                    "label": "Самовывоз из магазина",
+                    "service_name": "Самовывоз из магазина",
+                    "service_code": "silkroad",
+                    "tariff": "Самовывоз из магазина",
+                    "daysMin": "1",
+                    "daysMax": "2",
+                    "period_formatted": "1-2 дня",
+                    "price_formatted": "0 руб",
+                    "silkroad_code": "silkroad0",
+                    "pvz": [
+                        {
+                            "address": "43км МКАД, к-8, Логистический центр «Славянский мир». Внутренний адрес: 28 корпус, 8 дверь",
+                            "name": "43км МКАД, к-8, Логистический центр «Славянский мир». Внутренний адрес: 28 корпус, 8 дверь",
+                            "more": "",
+                            "phone": "",
+                            "worktime": "",
+                            "lat": "55.622624",
+                            "lon": "37.459334"
+                        }
+                    ]
+            },
+            "address": {
+                    "price": 400,
+                    "period": "1-2 дня",
+                    "label": "Курьер (Доставка, до двери)",
+                    "service_name": "Курьер",
+                    "service_code": "silkroad",
+                    "tariff": "Доставка, до двери",
+                    "daysMin": "1",
+                    "daysMax": "2",
+                    "period_formatted": "1-2 дня",
+                    "price_formatted": "400 руб",
+                    "silkroad_code": "silkroad1"
+            }
+        }
+    },
+    "order": {
+        "price": 2865,
+        "discount": 0,
+        "totalPrice": 2865
+    },
+    "paymentMethods": {
+        "card": [
+            "silkroad",
+            "grastin",
+            "dpd",
+            "gtd",
+            "pek",
+            "sdek"
+        ],
+        "bill": [
+            "silkroad",
+            "grastin",
+            "dpd",
+            "gtd",
+            "pek",
+            "sdek"
+        ],
+        "cash": [
+            "silkroad",
+            "grastin"
+        ],
+        "installment": [
+            "silkroad",
+            "grastin",
+            "dpd",
+            "gtd",
+            "pek",
+            "sdek"
+        ]
+    },
+    "deliveryAddress": ""
+}
