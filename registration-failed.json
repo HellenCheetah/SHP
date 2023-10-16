@@ -1,7 +1,7 @@
 {
   "code": '',
   "response": {
-    data: {
+    "data": {
       "id": 1,
       "state": "MANY_ATTEMPTS"
       "message": "Превышен лимит ввода кода."
