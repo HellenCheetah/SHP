@@ -1,0 +1,10 @@
+{
+  "code": "Request failed",
+  "response": {
+    "data": {
+      "id": 1,
+      "state": "INCORRECT_CODE"
+      "message": "Неправильно введен код."
+    }
+  }
+}
