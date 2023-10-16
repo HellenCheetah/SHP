@@ -1,8 +1,8 @@
 {
-  config: {},
-  headers: {},
-  data: {
-        id: 22,
-        state: 'SUCCESS'
+  "config": {},
+  "headers": {},
+  "data": {
+        "id": 22,
+        "state": "SUCCESS"
     }
 }
